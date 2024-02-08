@@ -1,0 +1,7 @@
+{
+    "ip": "127.0.0.1",
+    "error": true,
+    "reason": "Reserved IP Address",
+    "reserved": true,
+    "version": "IPv4"
+}
